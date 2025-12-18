@@ -7,7 +7,7 @@ Simon Genius Game: https://www.tinkercad.com/things/jYAPT8wHKZt-projetosimonlip
 
 Primeiro projeto - Semáforo: https://www.tinkercad.com/things/kDFEkaO5J89-semaforo-lip 
 
-Segundo projeto - ODS: https://www.tinkercad.com/things/4TaOUXWc9tU-projeto-lip-2 (esse projeto foi feito em blocos do thinkercad)
+Segundo projeto - ODS: https://www.tinkercad.com/things/4TaOUXWc9tU-projeto-lip-2 
 
 ## Documentação segundo projeto
 Iluminação Pública Adaptativa para Segurança e Eficiência
